@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semantics", "Semantics\Semantics.csproj", "{34A0C7F5-108F-4CC1-9301-4596AFEFE734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticsTest", "SemanticsTest\SemanticsTest.csproj", "{F0CDE64F-99FE-4679-A837-FEA98022AAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automata", "Automata\Automata.csproj", "{9BF863FE-FB14-4401-B7F4-402D2FCAEDF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomataTest", "AutomataTest\AutomataTest.csproj", "{461A6A70-C52B-45E2-AB9A-D425D001FA01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34A0C7F5-108F-4CC1-9301-4596AFEFE734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A0C7F5-108F-4CC1-9301-4596AFEFE734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A0C7F5-108F-4CC1-9301-4596AFEFE734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A0C7F5-108F-4CC1-9301-4596AFEFE734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0CDE64F-99FE-4679-A837-FEA98022AAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CDE64F-99FE-4679-A837-FEA98022AAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CDE64F-99FE-4679-A837-FEA98022AAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CDE64F-99FE-4679-A837-FEA98022AAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF863FE-FB14-4401-B7F4-402D2FCAEDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF863FE-FB14-4401-B7F4-402D2FCAEDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF863FE-FB14-4401-B7F4-402D2FCAEDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF863FE-FB14-4401-B7F4-402D2FCAEDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461A6A70-C52B-45E2-AB9A-D425D001FA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461A6A70-C52B-45E2-AB9A-D425D001FA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461A6A70-C52B-45E2-AB9A-D425D001FA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461A6A70-C52B-45E2-AB9A-D425D001FA01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
